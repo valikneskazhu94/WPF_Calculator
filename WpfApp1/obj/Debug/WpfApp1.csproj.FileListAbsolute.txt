@@ -1,0 +1,29 @@
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\pko\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\IT Step\WPF\Calculator\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\IT Step\WPF\Calculator\WpfApp1\bin\Debug\WpfApp1.exe
+E:\IT Step\WPF\Calculator\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\App.g.cs
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\MainWindow.baml
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.exe
+E:\IT Step\WPF\Calculator\WpfApp1\obj\Debug\WpfApp1.pdb
